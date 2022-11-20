@@ -11,11 +11,20 @@
 
 ## 사용한 라이브러리
 
+## 디자인
+- 피그마 디자인
 
-## 소스코드
+## 앱 UI
+#### 시작화면
+![랜덤퀴즈_스크린 1](https://user-images.githubusercontent.com/62204475/202910478-b3ddfcb0-1bfd-4cc7-8fe7-f9cd514a71d5.png)<br>
 
-## 실행 결과
+#### 카테고리 선택화면
+<img width="400" alt="랜덤퀴즈_스크린2-2" src="https://user-images.githubusercontent.com/62204475/202910490-232bd1e4-3ac9-471c-9d78-451d0f535bcb.png"><br>
+<img width="400" alt="랜덤퀴즈_스크린2-2" src="https://user-images.githubusercontent.com/62204475/202910504-20374c51-46d6-403b-9b6b-0cab37ea5aeb.png"><br>
+<img width="400" alt="랜덤퀴즈_스크린2-3" src="https://user-images.githubusercontent.com/62204475/202910506-32262b75-bd35-4a89-b014-4061c39503f8.png"><br>
 
+#### 게임화면
+![랜덤퀴즈_스크린3](https://user-images.githubusercontent.com/62204475/202910507-a1a8cbcf-e788-4325-a493-9758f20d95b5.png)<br>
 
 
 ## Commit Rule
