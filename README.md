@@ -3,7 +3,7 @@
 ## 프로젝트 
 <b>프로젝트 소개</b> : 랜덤 퀴즈 프로젝트 - iOT 웹프로그래밍 이해와 활용 종합 프로젝트<br>
 <b>팀장</b> : 컴퓨터공학과 최하람<br>
-<b>팀원</b> : 사학과 윤다빈, 노희열, 정다<br>
+<b>팀원</b> : 사학과 윤다빈, 노희열, 정다원<br>
 <b>기간</b> : 22.11.03 ~ 
 
 ## 실행환경
@@ -20,7 +20,6 @@
 ![랜덤퀴즈_스크린 1](https://user-images.githubusercontent.com/62204475/202910478-b3ddfcb0-1bfd-4cc7-8fe7-f9cd514a71d5.png)<br>
 
 #### 카테고리 선택화면
-<img width="400" alt="랜덤퀴즈_스크린2-2" src="https://user-images.githubusercontent.com/62204475/202910490-232bd1e4-3ac9-471c-9d78-451d0f535bcb.png"><br>
 <img width="400" alt="랜덤퀴즈_스크린2-2" src="https://user-images.githubusercontent.com/62204475/202910504-20374c51-46d6-403b-9b6b-0cab37ea5aeb.png"><br>
 <img width="400" alt="랜덤퀴즈_스크린2-3" src="https://user-images.githubusercontent.com/62204475/202910506-32262b75-bd35-4a89-b014-4061c39503f8.png"><br>
 
