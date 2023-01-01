@@ -1,4 +1,4 @@
-# random-quiz-app
+# random-quiz-app(수정중)
 
 ## 프로젝트 
 <b>프로젝트 소개</b> : 랜덤 퀴즈 프로젝트 - iOT 웹프로그래밍 이해와 활용 종합 프로젝트<br>
